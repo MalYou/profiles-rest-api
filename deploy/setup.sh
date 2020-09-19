@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+#starting 
+
 set -e
 
 # TODO: Set to URL of git repo.

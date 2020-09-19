@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+#starting 
+
 set -e
 
 PROJECT_BASE_PATH='/usr/local/apps/profiles-rest-api'
